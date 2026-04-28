@@ -41,16 +41,7 @@ The system ensures that excess food is efficiently redirected instead of wasted.
 
 ---
 
-## 📸 Screenshots
 
-> 📌 Add screenshots of your app here for better impact
-
-Example:
-- Dashboard View  
-- Map Visualization  
-- Allocation Results  
-
----
 
 ## ▶️ Run Locally
 
