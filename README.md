@@ -46,7 +46,9 @@ The system ensures that excess food is efficiently redirected instead of wasted.
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reusify-food-redistribution.git
+[git clone https://github.com/YOUR_USERNAME/reusify-food-redistribution.git](https://reusify-food-redistribution-c3ykttn6oabj7nc66f2exw.streamlit.app/
+)<img width="832" height="52" alt="image" src="https://github.com/user-attachments/assets/7411a07a-fa8d-4cbc-b577-96b4a4ad852e" />
+
 cd reusify-food-redistribution
 pip install -r requirements.txt
 streamlit run app.py
